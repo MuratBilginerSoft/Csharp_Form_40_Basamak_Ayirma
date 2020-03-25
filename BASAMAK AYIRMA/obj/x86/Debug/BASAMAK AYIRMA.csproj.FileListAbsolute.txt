@@ -1,0 +1,48 @@
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK_AYIRMA.Form1.resources
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK_AYIRMA.Properties.Resources.resources
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK AYIRMA.csproj.GenerateResource.Cache
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\BASAMAK AYIRMA\BASAMAK AYIRMA\bin\Debug\BASAMAK AYIRMA.exe
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\BASAMAK AYIRMA\BASAMAK AYIRMA\bin\Debug\BASAMAK AYIRMA.pdb
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK AYIRMA.exe
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK AYIRMA.pdb
+E:\Users\MURATBILGINER\Desktop\ \4 C# PROJELERİM\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK AYIRMA.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\ \6 C# PROJE DEPOM\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK AYIRMA.exe
+C:\Users\murat\Desktop\ \6 C# PROJE DEPOM\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK AYIRMA.pdb
+C:\Users\murat\Desktop\ \6 C# PROJE DEPOM\BASAMAK AYIRMA\BASAMAK AYIRMA\bin\Debug\BASAMAK AYIRMA.exe
+C:\Users\murat\Desktop\ \6 C# PROJE DEPOM\BASAMAK AYIRMA\BASAMAK AYIRMA\bin\Debug\BASAMAK AYIRMA.pdb
+C:\Users\murat\Desktop\ \6 C# PROJE DEPOM\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK AYIRMA.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\ \6 C# PROJE DEPOM\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK_AYIRMA.Form1.resources
+C:\Users\murat\Desktop\ \6 C# PROJE DEPOM\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK_AYIRMA.Properties.Resources.resources
+C:\Users\murat\Desktop\ \6 C# PROJE DEPOM\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK AYIRMA.csproj.GenerateResource.Cache
+M:\NCFKR\2 C#\2 C# PROJE DEPOM\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK AYIRMA.exe
+M:\NCFKR\2 C#\2 C# PROJE DEPOM\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK AYIRMA.pdb
+M:\NCFKR\2 C#\2 C# PROJE DEPOM\BASAMAK AYIRMA\BASAMAK AYIRMA\bin\Debug\BASAMAK AYIRMA.exe
+M:\NCFKR\2 C#\2 C# PROJE DEPOM\BASAMAK AYIRMA\BASAMAK AYIRMA\bin\Debug\BASAMAK AYIRMA.pdb
+M:\NCFKR\2 C#\2 C# PROJE DEPOM\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK AYIRMA.csprojResolveAssemblyReference.cache
+M:\NCFKR\2 C#\2 C# PROJE DEPOM\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK_AYIRMA.Form1.resources
+M:\NCFKR\2 C#\2 C# PROJE DEPOM\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK_AYIRMA.Properties.Resources.resources
+M:\NCFKR\2 C#\2 C# PROJE DEPOM\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK AYIRMA.csproj.GenerateResource.Cache
+C:\Users\Ncfkr\YandexDisk\BLOG 2\2 YAZILIM\3 KODBANK\2 C# GÖRSEL PROGRAMLAMA\3 Kodbank C# Görsel Programlama 3 Basamak Ayırma\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK AYIRMA.exe
+C:\Users\Ncfkr\YandexDisk\BLOG 2\2 YAZILIM\3 KODBANK\2 C# GÖRSEL PROGRAMLAMA\3 Kodbank C# Görsel Programlama 3 Basamak Ayırma\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK AYIRMA.pdb
+C:\Users\Ncfkr\YandexDisk\BLOG 2\2 YAZILIM\3 KODBANK\2 C# GÖRSEL PROGRAMLAMA\3 Kodbank C# Görsel Programlama 3 Basamak Ayırma\BASAMAK AYIRMA\BASAMAK AYIRMA\bin\Debug\BASAMAK AYIRMA.exe
+C:\Users\Ncfkr\YandexDisk\BLOG 2\2 YAZILIM\3 KODBANK\2 C# GÖRSEL PROGRAMLAMA\3 Kodbank C# Görsel Programlama 3 Basamak Ayırma\BASAMAK AYIRMA\BASAMAK AYIRMA\bin\Debug\BASAMAK AYIRMA.pdb
+C:\Users\Ncfkr\YandexDisk\BLOG 2\2 YAZILIM\3 KODBANK\2 C# GÖRSEL PROGRAMLAMA\3 Kodbank C# Görsel Programlama 3 Basamak Ayırma\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK AYIRMA.csprojResolveAssemblyReference.cache
+C:\Users\Ncfkr\YandexDisk\BLOG 2\2 YAZILIM\3 KODBANK\2 C# GÖRSEL PROGRAMLAMA\3 Kodbank C# Görsel Programlama 3 Basamak Ayırma\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK_AYIRMA.Form1.resources
+C:\Users\Ncfkr\YandexDisk\BLOG 2\2 YAZILIM\3 KODBANK\2 C# GÖRSEL PROGRAMLAMA\3 Kodbank C# Görsel Programlama 3 Basamak Ayırma\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK_AYIRMA.Properties.Resources.resources
+C:\Users\Ncfkr\YandexDisk\BLOG 2\2 YAZILIM\3 KODBANK\2 C# GÖRSEL PROGRAMLAMA\3 Kodbank C# Görsel Programlama 3 Basamak Ayırma\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK AYIRMA.csproj.GenerateResource.Cache
+C:\Users\Ncfkr\Desktop\3 Kodbank C# Görsel Programlama 3 Basamak Ayırma\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK AYIRMA.exe
+C:\Users\Ncfkr\Desktop\3 Kodbank C# Görsel Programlama 3 Basamak Ayırma\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK AYIRMA.pdb
+C:\Users\Ncfkr\Desktop\3 Kodbank C# Görsel Programlama 3 Basamak Ayırma\BASAMAK AYIRMA\BASAMAK AYIRMA\bin\Debug\BASAMAK AYIRMA.exe
+C:\Users\Ncfkr\Desktop\3 Kodbank C# Görsel Programlama 3 Basamak Ayırma\BASAMAK AYIRMA\BASAMAK AYIRMA\bin\Debug\BASAMAK AYIRMA.pdb
+C:\Users\Ncfkr\Desktop\3 Kodbank C# Görsel Programlama 3 Basamak Ayırma\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK AYIRMA.csprojResolveAssemblyReference.cache
+C:\Users\Ncfkr\Desktop\3 Kodbank C# Görsel Programlama 3 Basamak Ayırma\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK_AYIRMA.Form1.resources
+C:\Users\Ncfkr\Desktop\3 Kodbank C# Görsel Programlama 3 Basamak Ayırma\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK_AYIRMA.Properties.Resources.resources
+C:\Users\Ncfkr\Desktop\3 Kodbank C# Görsel Programlama 3 Basamak Ayırma\BASAMAK AYIRMA\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK AYIRMA.csproj.GenerateResource.Cache
+E:\03 - Yazılım\05 - Büyük Projeler\37 Basamak Ayırma\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK AYIRMA.exe
+E:\03 - Yazılım\05 - Büyük Projeler\37 Basamak Ayırma\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK AYIRMA.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\37 Basamak Ayırma\BASAMAK AYIRMA\bin\Debug\BASAMAK AYIRMA.exe
+E:\03 - Yazılım\05 - Büyük Projeler\37 Basamak Ayırma\BASAMAK AYIRMA\bin\Debug\BASAMAK AYIRMA.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\37 Basamak Ayırma\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK AYIRMA.csprojResolveAssemblyReference.cache
+E:\03 - Yazılım\05 - Büyük Projeler\37 Basamak Ayırma\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK_AYIRMA.Form1.resources
+E:\03 - Yazılım\05 - Büyük Projeler\37 Basamak Ayırma\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK_AYIRMA.Properties.Resources.resources
+E:\03 - Yazılım\05 - Büyük Projeler\37 Basamak Ayırma\BASAMAK AYIRMA\obj\x86\Debug\BASAMAK AYIRMA.csproj.GenerateResource.Cache
